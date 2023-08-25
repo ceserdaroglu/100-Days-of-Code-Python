@@ -25,7 +25,6 @@ scissors = '''
 ---.__(___)
 '''
 game=[rock,paper,scissors]
-#Write your code below this line 👇
 your_choice=input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. ---> ")
 if your_choice == "0":
     print(f"You Choose: {rock}")
